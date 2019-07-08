@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1041885718204",
+    "firebase_url": "https://squaad-id.firebaseio.com",
+    "project_id": "squaad-id",
+    "storage_bucket": "squaad-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041885718204:android:75928b7e46307d03",
+        "android_client_info": {
+          "package_name": "com.mattmohandiss.squaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041885718204-9rot1sekf69vl4ujdodrtbdfv4d1hh6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mattmohandiss.squaad",
+            "certificate_hash": "aac3439cadb66281cfe1bdf98925fe5950dde6b2"
+          }
+        },
+        {
+          "client_id": "1041885718204-iqndlb8vk12l5g3j7085ah50vf9k8i58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mattmohandiss.squaad",
+            "certificate_hash": "bb60fab9fc00922cfa6e8f069e0a65760e79890e"
+          }
+        },
+        {
+          "client_id": "1041885718204-u07hrr3c2ilt0h780o81s5u3itkvjli1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7zo0GpbIRrU2R9g2MTNbM8n1q_9HNlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041885718204-u07hrr3c2ilt0h780o81s5u3itkvjli1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041885718204-c8qp0h5cn4c81ka6qfh4bi9ugv9rcm0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mattmohandiss.squaad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
